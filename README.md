@@ -175,6 +175,8 @@ Minerva.Html
 </html>
 ```
 ## OUTPUT
+
+![image](https://github.com/user-attachments/assets/6dc7feb2-7aec-4802-8b6f-b7363f307b49)
 ![image](https://github.com/user-attachments/assets/0644e39d-552f-4919-ba55-4adf78f727a2)
 ![image](https://github.com/user-attachments/assets/56eca6c3-4bc6-42e8-a13c-5f4db3d7512e)
 ![Screenshot 2024-10-20 000527](https://github.com/user-attachments/assets/e473f54b-ce7d-4d45-8870-ceef072f65ae)
