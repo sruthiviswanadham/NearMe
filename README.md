@@ -25,7 +25,7 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
-Map.Html
+## Map.Html
 ```
 <html>
     <head>
@@ -49,7 +49,7 @@ Map.Html
 </html>
 ```
 
-MGB.HTML
+## MGB.HTML
 ```
 <html>
     <head>
@@ -81,7 +81,7 @@ MGB.HTML
     </body>
 </html>
 ```
-beach.html
+## beach.html
 ```
 <html>
     <head>
@@ -113,7 +113,7 @@ beach.html
     </body>
 </html>
 ```
-penchalakona.html
+## penchalakona.html
 ```
 <html>
     <head>
@@ -143,7 +143,7 @@ penchalakona.html
     </body>
 </html>
 ```
-Minerva.Html
+## Minerva.Html
 ```
 <html>
     <head>
